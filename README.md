@@ -8,7 +8,7 @@ performs basic mathametic operations
 
 <h3>Features</h3>
 
-Button to perform basic functions like  Addition , Subtraction, Multiplication, Division.
+Button to perform basic functions like  Addition , Subtraction, Multiplication, Division.<br>
 Multiple Screen Support added different layout for different resolution (example:- hdpi, xhdpi, xxhdpi..etc ) 
 
 <h3>Prespective to Create this App</h3>
