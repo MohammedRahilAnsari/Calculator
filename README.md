@@ -2,8 +2,7 @@
 
 <h3>Description</h3>
 
-App using kotlin + view binding.<br
->
+App using kotlin + view binding.<br>
 performs basic mathametic operations
 
 <h3>Features</h3>
